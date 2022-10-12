@@ -1,11 +1,8 @@
 # 2022_opensource_proposal
 
-<img src="https://img.shields.io/github/issues/PKTOSE/2022_opensource_proposal">
-<img src="https://img.shields.io/github/forks/PKTOSE/2022_opensource_proposal">
-<img src="https://img.shields.io/github/stars/PKTOSE/2022_opensource_proposal">
-<img src="https://img.shields.io/github/license/PKTOSE/2022_opensource_proposal">
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/opensource-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B8%B0%EC%B4%88%EC%84%A4%EA%B3%84__%EA%B0%9C%EB%B3%84%EC%A0%9C%EC%95%88%EC%84%9C-brightgreen">
+<img src="https://img.shields.io/github/issues/PKTOSE/2022_opensource_proposal"><img src="https://img.shields.io/github/forks/PKTOSE/2022_opensource_proposal"><img src="https://img.shields.io/github/stars/PKTOSE/2022_opensource_proposal"><img src="https://img.shields.io/github/license/PKTOSE/2022_opensource_proposal"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/opensource-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B8%B0%EC%B4%88%EC%84%A4%EA%B3%84__%EA%B0%9C%EB%B3%84%EC%A0%9C%EC%95%88%EC%84%9C-brightgreen">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKTOSE&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=PKTOSE&show_icons=true">
 
 2022년도 오픈소스기초설계 개별 제안서 업로드용 깃허브
 
