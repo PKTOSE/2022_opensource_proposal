@@ -6,4 +6,5 @@ def palindrome(st: str):
     return st[-1] + palindrome(st[:-1])
 
 
-print(palindrome(''))
+print(palindrome(''))           # 빈 문자열을 넣었을 때
+print(palindrome('안녕하세요'))  # 한글 문자열을 넣었을 때
